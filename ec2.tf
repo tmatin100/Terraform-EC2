@@ -7,4 +7,5 @@ resource "aws_instance" "Jenkins" {
     tags = {
       Name = element(var.tags,count.index)
    }
+}
     
