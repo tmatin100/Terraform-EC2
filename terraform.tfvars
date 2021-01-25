@@ -1,5 +1,5 @@
-aws_access_key =
-aws_secret_key =
+aws_access_key = "Put your access key here"
+aws_secret_key = "Put your secret key here"
 
 #CLI Commands
 /*
